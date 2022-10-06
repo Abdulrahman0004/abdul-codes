@@ -6,6 +6,6 @@ char chr;
 clrscr();
 printf("Enter a character:");
 scanf("%c",&chr);
-printf("You entered %c:",chr);
+printf("You entered :%c",chr);
 getch();
 }
